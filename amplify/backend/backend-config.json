@@ -1,12 +1,12 @@
 {
   "analytics": {
-    "mypizzaapp": {
+    "demo": {
       "providerPlugin": "awscloudformation",
       "service": "Pinpoint"
     }
   },
   "auth": {
-    "mypizzaapp5be9c362": {
+    "demo662084d5": {
       "customAuth": false,
       "dependsOn": [],
       "frontendAuthConfig": {

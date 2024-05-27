@@ -1,13 +1,13 @@
 export type AmplifyDependentResourcesAttributes = {
   "analytics": {
-    "mypizzaapp": {
+    "demo": {
       "Id": "string",
       "Region": "string",
       "appName": "string"
     }
   },
   "auth": {
-    "mypizzaapp5be9c362": {
+    "demo662084d5": {
       "AppClientID": "string",
       "AppClientIDWeb": "string",
       "IdentityPoolId": "string",

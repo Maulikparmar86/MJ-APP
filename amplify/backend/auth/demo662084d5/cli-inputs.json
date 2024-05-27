@@ -1,10 +1,10 @@
 {
   "version": "1",
   "cognitoConfig": {
-    "identityPoolName": "mypizzaapp5be9c362_identitypool_5be9c362",
+    "identityPoolName": "demo662084d5_identitypool_662084d5",
     "allowUnauthenticatedIdentities": true,
-    "resourceNameTruncated": "mypizz5be9c362",
-    "userPoolName": "mypizzaapp5be9c362_userpool_5be9c362",
+    "resourceNameTruncated": "demo662084d5",
+    "userPoolName": "demo662084d5_userpool_662084d5",
     "autoVerifiedAttributes": [
       "email"
     ],
@@ -31,10 +31,10 @@
     "userpoolClientReadAttributes": [
       "email"
     ],
-    "userpoolClientLambdaRole": "mypizz5be9c362_userpoolclient_lambda_role",
+    "userpoolClientLambdaRole": "demo66662084d5_userpoolclient_lambda_role",
     "userpoolClientSetAttributes": false,
-    "sharedId": "5be9c362",
-    "resourceName": "mypizzaapp5be9c362",
+    "sharedId": "662084d5",
+    "resourceName": "demo662084d5",
     "authSelections": "identityPoolAndUserPool",
     "useDefault": "default",
     "userPoolGroupList": [],
