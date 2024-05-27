@@ -16,7 +16,7 @@
         ],
         "passwordProtectionSettings": {
           "passwordPolicyCharacters": [],
-          "passwordPolicyMinLength": 8
+          "passwordPolicyMinLength": 9
         },
         "signupAttributes": [
           "EMAIL"
